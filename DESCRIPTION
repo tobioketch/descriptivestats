@@ -4,8 +4,8 @@ Title: Provides Descriptive Statistics
 Version: 0.1.0
 Author: Tobias Oketch
 Maintainer: The package maintainer <tobiasoketch@gmail.com>
-Description: Draws descriptive plots (histogram and box plot). Also, provides More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Draws descriptive plots (histogram and box plot). 
+    Also, provides the five number summary.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
