@@ -2,7 +2,6 @@
 #' @export
 #' @param x numeric variable
 #' @importFrom graphics hist boxplot par
-#' @importFrom grDevices rainbow
 #' @importFrom  stats setNames fivenum
 
 desc <- function(x) {
