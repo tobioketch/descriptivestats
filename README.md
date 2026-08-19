@@ -1,5 +1,5 @@
 # descriptivestats
 
-temp R package for descriptive analysis of a numeric variable
+`descriptivestats` is an early R package project developed for exploratory descriptive analysis of numeric data. It provides a simple function for generating a histogram and boxplot together with the five-number summary.
 
-draws a histogram, boxplot, and summary  statistics (minimum, mean, and maximum values ) of the variable
+This repository is retained as part of my earlier statistical programming work and is not under active development.
